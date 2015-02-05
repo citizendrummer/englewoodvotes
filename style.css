@@ -1,1 +1,27 @@
-@import url("//maxcdn.bootstrapcdn.com/bootswatch/3.3.1/cerulean/bootstrap.min.css");
+@import url("//maxcdn.bootstrapcdn.com/bootswatch/3.3.2/darkly/bootstrap.min.css");
+
+body {
+    background-color: white;
+    color: black;
+    padding-top: 40px;
+    position: relative;
+}
+
+.page-header {
+    color: DarkRed;
+}
+
+.thumbnail, .thumbnail > .caption {
+    background-color: white;
+    color: black;
+}
+
+h2 {
+    color: DarkRed;
+}
+
+#footer {
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
