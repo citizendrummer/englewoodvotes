@@ -1,3 +1,7 @@
-Englewood Votes!
+Englewood Votes! website for 2015 Chicago municipal candidate forums.
 
-Website for 2015 Chicago municipal candidate forums. 
+Developed wtih [Cloud9 IDE](https://c9.io/). Hosted on [GitHub](https://github.com/).
+
+Built with [Twitter Bootstrap 3](http://getbootstrap.com/), based on [Bootswatch](http://bootswatch.com/) [Darkly](http://bootswatch.com/darkly/) theme, served by [Bootstrap CDN](http://www.bootstrapcdn.com/). 
+
+Social media icons from [iconsDB](http://www.iconsdb.com/).
