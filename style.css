@@ -25,3 +25,12 @@ h2 {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+a.navbar-brand:hover {
+    color: DarkRed !important;
+}
+
+#footer > p > a {
+    color: White !important;
+    text-decoration: underline !important;
+}
